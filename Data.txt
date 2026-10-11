@@ -1,0 +1,5 @@
+101 | Amit | CSE
+102 | Rahul | ECE
+103 | Priya | CSE
+104 | Neha | EE
+105 | Rohit | ME
